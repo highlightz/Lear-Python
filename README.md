@@ -1,5 +1,5 @@
-# Lear-Python
-From the online book 'Lear Python The Hard Way'.
+# Learn-Python
+From the online book 'Learn Python The Hard Way'.
 
 Current progress: 
 http://learnpythonthehardway.org/book/ex8.html
