@@ -1,13 +1,32 @@
-print
-"
-'
-#
-+
--
-*
-/
-%
->
->=
-<
-<=
+print - Prints a string to the screen
+"  - Surrounds something to signify that it is a string
+'  - Same as above
+#  - Commenting token
++  - Plus
+-  - Subtract
+*  - Multiply
+/  - Divide
+%  - Mode
+>  - Bigger than
+>= - Bigger than or equal to 
+<  - Less than
+<= - Less than or equal to 
+%r - Format is raw input
+raw_input - Gets raw input form command line
+from -
+sys
+import
+argv
+open
+read
+close
+truncate
+write
+os.path
+exists
+read
+def
+seek
+rewind
+return
+
