@@ -13,20 +13,19 @@ print - Prints a string to the screen
 <= - Less than or equal to 
 %r - Format is raw input
 raw_input - Gets raw input form command line
-from -
-sys
-import
-argv
-open
-read
-close
-truncate
-write
-os.path
-exists
-read
-def
+from - Signifies the library to import module from
+sys - A library
+import - Import a module 
+argv - A module
+open - Open a file
+read - Gets the content of a file
+close - Close a file
+truncate 
+write - Write content to file
+os.path - A sub-library
+exists - 
+def - Defines a function
 seek
 rewind
-return
+return - Returns a value from a function definition
 
