@@ -28,4 +28,9 @@ def - Defines a function
 seek
 rewind
 return - Returns a value from a function definition
-
+if - 
+elif -
+else -
+for -
+in -
+range - Left included, right not.
