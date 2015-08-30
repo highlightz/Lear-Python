@@ -32,5 +32,23 @@ if -
 elif -
 else -
 for -
-in -
+in - Part of fo-loops. Also a test of X in Y.
 range - Left included, right not.
+None - Represents "nothing" or "no value".
+** - Power of. eg. 2 ** 4 == 16
+{ }	- Dict curly braces. eg.	{'x': 5, 'y': 10}
+
+#######################################################
+as
+assert
+del
+except
+exec
+finally
+global
+is
+lambda
+pass
+raise
+with
+yield
