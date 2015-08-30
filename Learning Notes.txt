@@ -7,3 +7,10 @@ but if you do True and 1 your get the second (1).
 A colon at the end of a line is how you tell Python you are going to create a new "block" of code, 
 and then indenting four spaces tells Python what lines of code are in that block. 
 
+Every if-statement must have an else.
+
+The best way to debug a program is to use print to print out the values of variables at points in the program to see where they go wrong.
+
+Code a little, run a little, fix a little.
+
+
